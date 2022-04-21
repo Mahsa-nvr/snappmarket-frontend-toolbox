@@ -1,0 +1,7 @@
+{
+  "private": false,
+  "main": "index.js",
+  "module": "index.js",
+  "license": "MIT",
+  "sideEffects": false
+}

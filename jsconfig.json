@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@template/ducks/*": ["./app/ducks/*"],
+      "@template/constants/*": ["./app/constants/*"],
+      "@template/config/*": ["./app/config/*"]
+    }
+  }
+}
